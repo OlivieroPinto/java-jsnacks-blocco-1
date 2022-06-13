@@ -15,7 +15,7 @@ public class JSnack2 {
 			numero++;
 			System.out.println(numero);
 		}
-
+		scan.close();
 	}
 
 }
